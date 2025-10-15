@@ -62,6 +62,15 @@ The workshop is designed to give students a practical introduction to how comput
 - Using **MobileNet-SSD** pretrained model for real-time object detection.
 - Running inference on images and webcam feeds.
 
+## Presentation Materials
+
+The following resources were used during the workshop:
+
+| Type | File | Description |
+|------|------|-------------|
+| 📑 PDF Slides | [Computer_Vision_Pixels_Slides.pdf](Presentation/Computer_Vision_Pixels_Slides.pdf) | The slides used during the workshop session. |
+| 🎞️ PowerPoint | [Computer_Vision_Pixels_Slides.pptx](Presentation/Computer_Vision_Pixels_Slides.pptx) | Editable PowerPoint version of the presentation. |
+
 ---
 
 # Requirements

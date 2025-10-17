@@ -1,8 +1,8 @@
 # Computer Vision & Deep Learning Workshop – Pixels Student Activity (Helwan Engineering)
 
-This repository contains the materials and notebook used in a **Computer Vision Workshop** organized by **Pixels Student Activity – Helwan University, Faculty of Engineering**.  
-The session introduces both **classical computer vision (OpenCV)** and **deep learning-based methods**, with hands-on experiments in Google Colab.
+This repository contains the **materials** and **notebook** I **prepared and delivered** for the **Computer Vision & Deep Learning Workshop** organized by **Pixels Student Activity – Faculty of Engineering, Helwan University**.
 
+In this session, I **introduced participants** to both **classical computer vision techniques (OpenCV)** and **deep learning-based methods**, with **hands-on experiments** in **Google Colab**.
 ---
 
 # Overview
